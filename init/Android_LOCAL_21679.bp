@@ -4,8 +4,8 @@
 //
 
 prebuilt_etc {
-    name: "init.oplus.widevine.rc",
-    src: "init.oplus.widevine.rc",
+    name: "init.lunaa.rc",
+    src: "init.lunaa.rc",
     sub_dir: "init",
-    vendor: true,
+    device_specific: true,
 }
